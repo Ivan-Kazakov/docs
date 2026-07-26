@@ -1,7 +1,7 @@
 # Terms of Use — Zen Blocks Sudoku
 
 **Effective date:** July 25, 2026
-**Last updated:** July 25, 2026
+**Last updated:** July 26, 2026
 
 By downloading, installing, or playing Zen Blocks Sudoku (the "Game"), you agree to these Terms of Use. If you do not agree, please do not use the Game.
 
@@ -22,9 +22,19 @@ You may not:
 
 The Game, including its code, artwork, sound, and design, is owned by its developer and protected by copyright and other intellectual property laws. These Terms grant you a license to use the Game, not ownership of it.
 
+## Advertising and Purchases
+
+The Game is supported by advertising supplied by Google AdMob. It shows a banner while you play, and it offers an optional video ad you may choose to watch at the end of a game in order to carry that game on. Watching is always optional.
+
+The Game also offers one optional in-app purchase: a one-time unlock that removes advertising. Buying it grants you a personal, non-transferable entitlement to use the Game without advertising, tied to the Google account that made the purchase. It is not a subscription and there is nothing further to buy.
+
+Purchases are sold and processed by Google Play, not by us. Payment, billing, and refunds are handled by Google Play under its own terms and refund policies. We do not process payments and cannot issue refunds ourselves.
+
+Advertising and the availability of the ad-free unlock may change in future versions of the Game.
+
 ## Privacy
 
-The Game does not collect personal data. See [PRIVACY.md](PRIVACY.md) for details.
+We do not collect personal data ourselves. The Game includes Google software for advertising and purchases, which processes data under Google's own privacy policy. See [PRIVACY.md](PRIVACY.md) for details.
 
 ## Disclaimer of Warranty
 
