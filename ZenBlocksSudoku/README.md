@@ -6,6 +6,7 @@ Public documentation for the Zen Blocks Sudoku game.
 
 - [Privacy Policy](PRIVACY.md) — how the Game handles information (short version: we collect nothing ourselves; Google serves the ads and handles the one purchase)
 - [Terms of Use](TERMS.md) — license and terms covering use of the Game
+- [Google Play Data Safety](PLAY_DATA_SAFETY.md) — a developer reference: the answers submitted in Play Console's Data safety form and the reasoning behind each one
 
 ## Data Handling at a Glance
 
